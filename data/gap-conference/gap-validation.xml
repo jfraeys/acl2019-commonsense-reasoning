@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type="text/xsl" href="WSExample.xsl"?>
+
+<collection>
+    <schema>
+    <text>
+        <txt1>He admitted making four trips to China and playing golf there. He also admitted that ZTE officials, whom he says are his golf buddies, hosted and paid for the trips. Jose de Venecia III, son of House Speaker Jose de Venecia Jr, alleged that Abalos offered </txt1>
+        <pron>him</pron>
+        <txt2> US$10 million to withdraw his proposal on the NBN project.</txt2>
+    </text>
+    <answers>
+        <answer>Jose de Venecia Jr</answer>
+        <answer>Abalos</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Commission_on_Elections_(Philippines)</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Kathleen Nott was born in Camberwell, London. Her father, Philip, was a lithographic printer, and her mother, Ellen, ran a boarding house in Brixton; Kathleen was their third daughter. </txt1>
+        <pron>She</pron>
+        <txt2> was educated at Mary Datchelor Girls' School (now closed), London, before attending King's College, London.</txt2>
+    </text>
+    <answers>
+        <answer>Ellen</answer>
+        <answer>Kathleen</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Kathleen_Nott</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>When she returns to her hotel room, a Liberian man (Tony Todd) forces her to smuggle $20 million worth of conflict diamonds to New York, or else fellow fight attendant and friend Angela will die. She is caught before she can board the flight, and the team now have nine hours until the plane lands, and save Angela. After the confiscated diamonds are stolen by the brother of Kaleo (Jason Scott Lee), whom Danny put away for murdering </txt1>
+        <pron>his</pron>
+        <txt2> partner last year, Five-0 and Chief Fryer team up and enlist the help of August March (Ed Asner), who served a 30-year sentence for smuggling diamonds.</txt2>
+    </text>
+    <answers>
+        <answer>Jason Scott Lee</answer>
+        <answer>Danny</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Hawaii_Five-0_(2010_TV_series,_season_2)</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>On 19 March 2007, during a campaign appearance for the New South Wales State Election, the then opposition leader Peter Debnam was confronted by Reucassel wearing nothing but Speedos and a baseball cap, making fun of Debnam's campaign appearances in the swimwear. When TV cameras remained focused on Reucassel rather than Mr Debnam, </txt1>
+        <pron>he</pron>
+        <txt2> said, ``Sorry, I'm not Peter Debnam, he's over there.</txt2>
+    </text>
+    <answers>
+        <answer>Reucassel</answer>
+        <answer>Debnam</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Craig_Reucassel</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>By this time, Karen Blixen had separated from her husband, and after their divorce in 1925, Finch Hatton moved into her house and began leading safaris for wealthy sportsmen. Among his clients were Marshall Field Jr and Edward, Prince of Wales. According to the author Mary Lovell, in 1930 Finch Hatton began a love affair with Beryl Markham, who was working as a race-horse trainer in Nairobi and the surrounding area. Later, </txt1>
+        <pron>she</pron>
+        <txt2> would become known as a pioneer flyer herself (Markham attributed her interest in flying to her association with Tom Campbell Black).</txt2>
+    </text>
+    <answers>
+        <answer>Finch Hatton</answer>
+        <answer>Beryl Markham</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Denys_Finch_Hatton</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>No amount of logic can shatter a faith consciously based on a lie.'' According to The Skeptic's Dictionary, an example of this syndrome is evidenced by an event in 1988 when stage magician James Randi, at the request of an Australian news program, coached stage performer Jos* Alvarez to pretend </txt1>
+        <pron>he</pron>
+        <txt2> was channelling a two-thousand-year-old spirit named ``Carlos''.</txt2>
+    </text>
+    <answers>
+        <answer>James Randi</answer>
+        <answer>Jos* Alvarez</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/True-believer_syndrome</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Lieutenant General Weber Pasha wanted Faik Pasha to command the ``Right Wing''. But Liman von Sanders disliked him and he had a quarrel with Faik Pasha for about a tactics. Weber Pasha insisted on his decision. At last unwillingly von Sanders appointed Faik Pasha to the command of Right Wing. </txt1>
+        <pron>He</pron>
+        <txt2> fought the Battle of Gully Ravine (28 June -- 3 July 1915) that was a very bloody battle that caused Ottoman Army many casualties.</txt2>
+    </text>
+    <answers>
+        <answer>von Sanders</answer>
+        <answer>Faik Pasha</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Faik_Pasha</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>He went on to enter mainstream journalism as a reporter and feature writer with the Belfast Sunday News, during the height of the Troubles in Northern Ireland. He was later promoted to Chief Sub- Editor of that newspaper, where he also wrote a weekly column. In 1977 Colin entered into correspondence with a singer and guitar player called Jake Burns, who was trying to promote </txt1>
+        <pron>his</pron>
+        <txt2> band Stiff Little Fingers.</txt2>
+    </text>
+    <answers>
+        <answer>Colin</answer>
+        <answer>Jake Burns</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Colin_McClelland</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>In 1940 Lester Cowan, an independent film producer, bought F. Scott Fitzgerald's short story, ``Babylon Revisited and Other Stories'' for $80, which was a bargain. Fitzgerald thought his screenwriting days were over and with some hesitation accepted Cowan's offer to write the screenplay titled ``Cosmopolitan'' based on the short story. After finishing the screenplay, Scott was told by Cowan that </txt1>
+        <pron>he</pron>
+        <txt2> would not do the film unless Shirley Temple starred in the lead of the youngster Honoria.</txt2>
+    </text>
+    <answers>
+        <answer>Scott</answer>
+        <answer>Cowan</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Shirley_Temple</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>They have a stormy marriage, caused by his hot temper and her habit of playing away. Soon after arriving on the Street, Liz makes friends with Deirdre Barlow (Anne Kirkbride), whose daughter Tracy (Dawn Acton) is slightly younger than the twins. When asked in a 2010 interview with The Mirror what </txt1>
+        <pron>her</pron>
+        <txt2> favourite scenes were, Beverley Callard replied, ``when Jim beat up Liz.</txt2>
+    </text>
+    <answers>
+        <answer>Beverley Callard</answer>
+        <answer>Liz</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Liz_McDonald</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>This particular government recalled all the Greek officers who participated in the anti-Ottoman revolutionary movements in Thessaly, Epirus and Macedonia to return to Greece while by personal requirement of Kallergis, Otto's adjutants-- Gennaios Kolokotronis, Spyromilios, Ioannis Mamouris and Gardikiotis Grivas--were dismissed, while the hitherto Minister of Military Affairs, Skarlatos Soutsos, was suspended. When </txt1>
+        <pron>he</pron>
+        <txt2> was minister, Kallergis formed for the first time in Greece a fire brigade.</txt2>
+    </text>
+    <answers>
+        <answer>Ioannis Mamouris</answer>
+        <answer>Kallergis</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Dimitrios_Kallergis</source>
+    </schema>
+</collection>

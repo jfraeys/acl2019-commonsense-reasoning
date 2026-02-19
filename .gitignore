@@ -20,20 +20,11 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (large)
-*.xml.1
-
-# Reports (generated)
-reports.txt
-
-# MyPy
-.mypy_cache/
-
-# Testing
-test.json
-
 # Hydra outputs
 outputs/
 
 # pyenv
 .python-version
+
+# MyPy
+.mypy_cache/

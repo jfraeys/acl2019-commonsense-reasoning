@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type="text/xsl" href="WSExample.xsl"?>
+
+<collection>
+    <schema>
+    <text>
+        <txt1>Zoe Telford -- played the police officer girlfriend of Simon, Maggie. Dumped by Simon in the final episode of series 1, after he slept with Jenny, and is not seen again. Phoebe Thomas played Cheryl Cassidy, Pauline's friend and also a year 11 pupil in Simon's class. Dumped </txt1>
+        <pron>her</pron>
+        <txt2> boyfriend following Simon's advice after he wouldn't have sex with her but later realised this was due to him catching crabs off her friend Pauline.</txt2>
+    </text>
+    <answers>
+        <answer>Cheryl Cassidy</answer>
+        <answer>Pauline</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/List_of_Teachers_(UK_TV_series)_characters</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>He grew up in Evanston, Illinois the second oldest of five children including his brothers, Fred and Gordon and sisters, Marge (Peppy) and Marilyn. His high school days were spent at New Trier High School in Winnetka, Illinois. MacKenzie studied with Bernard Leach from 1949 to 1952. </txt1>
+        <pron>His</pron>
+        <txt2> simple, wheel-thrown functional pottery is heavily influenced by the oriental aesthetic of Shoji Hamada and Kanjiro Kawai.</txt2>
+    </text>
+    <answers>
+        <answer>MacKenzie</answer>
+        <answer>Bernard Leach</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Warren_MacKenzie</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>He had been reelected to Congress, but resigned in 1990 to accept a post as Ambassador to Brazil. De la Sota again ran for governor of C*rdoba in 1991. Defeated by Governor Angeloz by over 15%, this latter setback was significant because it cost De la Sota much of </txt1>
+        <pron>his</pron>
+        <txt2> support within the Justicialist Party (which was flush with victory in the 1991 mid-terms), leading to President Carlos Menem 's endorsement of a separate party list in C*rdoba for the 1993 mid-term elections, and to De la Sota's failure to regain a seat in Congress.</txt2>
+    </text>
+    <answers>
+        <answer>Angeloz</answer>
+        <answer>De la Sota</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_de_la_Sota</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>The current members of Crime have also performed in San Francisco under the band name ''Remote Viewers``. Strike has published two works of fiction in recent years: Ports of Hell, which is listed in the Rock and Roll Hall of Fame Library, and A Loud Humming Sound Came from Above. Rank has produced numerous films (under </txt1>
+        <pron>his</pron>
+        <txt2> real name, Henry Rosenthal) including the hit The Devil and Daniel Johnston.</txt2>
+    </text>
+    <answers>
+        <answer>Hell</answer>
+        <answer>Henry Rosenthal</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Crime_(band)</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Her Santa Fe Opera debut in 2005 was as Nuria in the revised edition of Golijov's Ainadamar. She sang on the subsequent Deutsche Grammophon recording of the opera. For his opera Doctor Atomic, Adams rewrote the role of Kitty Oppenheimer, originally a mezzo-soprano role, for soprano voice, and Rivera sang the rewritten part of Kitty Oppenheimer at Lyric Opera of Chicago, De Nederlandse Opera, and the Metropolitan Opera., all in 2007. </txt1>
+        <pron>She</pron>
+        <txt2> has since sung several parts and roles in John Adams' works, including the soprano part in El Ni*o, and the role of Kumudha in A Flowering Tree in the Peter Sellars production at the New Crowned Hope Festival in Vienna.</txt2>
+    </text>
+    <answers>
+        <answer>Kitty Oppenheimer</answer>
+        <answer>Rivera</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Jessica_Rivera</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Sandra Collins is an American DJ. She got her start on the West Coast of the U.S. in Phoenix, Arizona and into residencies in Los Angeles, and eventually moved towards trance. She used American producers to give herself a unique sound. Collins performed for an estimated 80,000 people on the first night of Woodstock '99, and was the first female DJ featured in the Tranceport series of influential recordings. </txt1>
+        <pron>She</pron>
+        <txt2> recently has released two CD mixes under Paul Oakenfold's Perfecto label.</txt2>
+    </text>
+    <answers>
+        <answer>Collins</answer>
+        <answer>DJ</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Sandra_Collins</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Reb Chaim Yaakov's wife is the sister of Rabbi Moishe Sternbuch, as is the wife of Rabbi Meshulam Dovid Soloveitchik, making the two Rabbis his uncles. Reb Asher's brother Rabbi Shlomo Arieli is the author of a critical edition of the novallae of Rabbi Akiva Eiger. Before </txt1>
+        <pron>his</pron>
+        <txt2> marriage, Rabbi Arieli studied in the Ponevezh Yeshiva headed by Rabbi Shmuel Rozovsky, and he later studied under his father-in-law in the Mirrer Yeshiva.</txt2>
+    </text>
+    <answers>
+        <answer>Reb Asher</answer>
+        <answer>Akiva Eiger</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Asher_Arieli</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Slant Magazine's Sal Cinquemani viewed the album as formulaic and ``competently, often frustratingly more of the same from an artist who still seems capable of much more.'' Greg Kot of the Chicago Tribune perceived ``formula production and hack songwriting'', but complimented Pink's personality and its ``handful'' of worthy tracks. In </txt1>
+        <pron>his</pron>
+        <txt2> list for The Barnes &amp; Noble Review, Robert Christgau named The Truth About Love the fourth best album of 2012.</txt2>
+    </text>
+    <answers>
+        <answer>Greg Kot</answer>
+        <answer>Robert Christgau</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/The_Truth_About_Love_(Pink_album)</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Her father was an Englishman ``of rank and culture'' and her mother was a free woman of color, described as light-skinned. When Mary was six, her mother sent her to Alexandria (then part of the District of Columbia) to attend school. Living with </txt1>
+        <pron>her</pron>
+        <txt2> aunt Mary Paine, Kelsey studied for about ten years.</txt2>
+    </text>
+    <answers>
+        <answer>Mary Paine</answer>
+        <answer>Kelsey</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Mary_S._Peake</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Shaftesbury's UK partners in the production of the series, British broadcaster UKTV and the international distributor ITV Studios Global Entertainment, were both interested in additional seasons. Christina Jennings approached Kirstine Stewart, executive vice-president of CBC's English services, about continuing the series, and </txt1>
+        <pron>she</pron>
+        <txt2> felt that ``a home at CBC made absolute sense''.</txt2>
+    </text>
+    <answers>
+        <answer>Christina Jennings</answer>
+        <answer>Kirstine Stewart</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Murdoch_Mysteries</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>William Shatner portraying writer Mark Twain; a special Christmas episode which included appearances by Ed Asner, Brendan Coyle, Kelly Rowan and television news anchor Peter Mansbridge; an episode which featured David Onley, the Lieutenant Governor of Ontario at the time of production, appearing as </txt1>
+        <pron>his</pron>
+        <txt2> own forerunner Oliver Mowat; and two different episodes in which former Dragons' Den investors Arlene Dickinson and David Chilton guest starred.</txt2>
+    </text>
+    <answers>
+        <answer>Peter Mansbridge</answer>
+        <answer>David Onley</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Murdoch_Mysteries</source>
+    </schema>
+</collection>

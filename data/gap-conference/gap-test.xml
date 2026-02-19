@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type="text/xsl" href="WSExample.xsl"?>
+
+<collection>
+    <schema>
+    <text>
+        <txt1>Upon their acceptance into the Kontinental Hockey League, Dehner left Finland to sign a contract in Germany with EHC M*nchen of the DEL on June 18, 2014. After capturing the German championship with the M*nchen team in 2016, he left the club and was picked up by fellow DEL side EHC Wolfsburg in July 2016. Former NHLer Gary Suter and Olympic-medalist Bob Suter are Dehner's uncles. </txt1>
+        <pron>His</pron>
+        <txt2> cousin is Minnesota Wild's alternate captain Ryan Suter.</txt2>
+    </text>
+    <answers>
+        <answer>Bob Suter</answer>
+        <answer>Dehner</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Jeremy_Dehner</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Between the years 1979-1981, River won four local titles, and became one of the most expensive teams in the world, with a first team (Alonso- Luque) playing in league games and an equally prestigious second team (Carrasco- Ram*n D*az) used mostly in Copa Libertadores matches. During the 1981 ``Nacional'' tournament (which River would eventually win), Alonso often clashed with then coach Alfredo Di St*fano (who seldom selected </txt1>
+        <pron>him</pron>
+        <txt2> for the first team and instead put younger players such as Carlos Daniel Tapia and Jose Maria Vieta in his position).</txt2>
+    </text>
+    <answers>
+        <answer>Alonso</answer>
+        <answer>Alfredo Di St*fano</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Norberto_Alonso</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Though his emigration from the country has affected his leadership status, Kamel is still a respected elder of the clan. After the fall of Hussien's regime, many considered Dr. Ali Aladhadh a candidate to lead the clan. A contributor to Iraq's liberation, Ali Aladhadh and a long time oppose to Saddam's regime. </txt1>
+        <pron>He</pron>
+        <txt2> was ambushed with his pregnant wife on his way to the hospital in 2006 by Iraqi insurgents.</txt2>
+    </text>
+    <answers>
+        <answer>Ali Aladhadh</answer>
+        <answer>Saddam</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Aladhadh</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>At the trial, Pisciotta said: ``Those who have made promises to us are called Bernardo Mattarella, Prince Alliata, the monarchist MP Marchesano and also Signor Scelba, Minister for Home Affairs ... it was Marchesano, Prince Alliata and Bernardo Mattarella who ordered the massacre of Portella di Ginestra. Before the massacre they met Giuliano...'' However the MPs Mattarella, Alliata and Marchesano were declared innocent by the Court of Appeal of Palermo, at a trial which dealt with their alleged role in the event. During </txt1>
+        <pron>his</pron>
+        <txt2> trial Pisciotta could not account for Giuliano's documents in which he named the high-ranking government officials and mafiosi involved with Giuliano's band.</txt2>
+    </text>
+    <answers>
+        <answer>Alliata</answer>
+        <answer>Pisciotta</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Gaspare_Pisciotta</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>It is about a pair of United States Navy shore patrollers (SPs) (Tom Berenger and William McNamara) who must escort a beautiful prisoner (Erika Eleniak), and the troubles they encounter. Eddie Devane (William McNamara) is a young sailor who has carried out a number of inventory-related scams along with his partner-in-crime Howard (Crispin Glover) and made a lot of money during his service. A day before </txt1>
+        <pron>his</pron>
+        <txt2> discharge, Eddie is assigned to escort a prisoner from the Marine base at Camp Lejeune along with the authoritarian, no-nonsense Chief Petty Officer Rock Reilly (Tom Berenger).</txt2>
+    </text>
+    <answers>
+        <answer>Eddie</answer>
+        <answer>Rock Reilly</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Chasers</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>The others were Adam Baldwin (Jayne Cobb in Firefly) who played Colonel Dave Dixon, and Morena Baccarin (Inara Serra in Firefly) who played Adria. Executive producer Martin Gero created the character of Jennifer Keller while writing ``First Strike''. The producers decided to cast Jewel Staite for the role as Keller after they enjoyed working with </txt1>
+        <pron>her</pron>
+        <txt2> previously as Ellia in ``Instinct''.</txt2>
+    </text>
+    <answers>
+        <answer>Jewel Staite</answer>
+        <answer>Keller</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Jennifer_Keller</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Allison Fischer (born October 19, 1988) is an American singer and actress. Originally from northern New Jersey, Allison had her first professional performance in the Off-Broadway musical King Island Christmas in 2000. Also in 2000, Allison performed on Broadway at Madison Square Garden as Grace Smythe in A Christmas Carol, alongside Frank Langella and Tim Curry. </txt1>
+        <pron>She</pron>
+        <txt2> played Lady Jane in the Off-Broadway musical version of The Prince and the Pauper from 2002--2003, and briefly performed at Playwrights Horizon in January 2003 in Jeanine Tesori 's musical, ''Violet''.</txt2>
+    </text>
+    <answers>
+        <answer>Allison</answer>
+        <answer>Grace Smythe</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Allison_Fischer</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>The monster arrives and bites Jeni's tongue, but David manages to break free and releases the other three, though at the cost of his own life. The remaining trio head back to the cottage to set a trap to kill the monster, but the leprechaun tricks Sophie and Ben into striking Jeni with their axes, killing </txt1>
+        <pron>her</pron>
+        <txt2>.</txt2>
+    </text>
+    <answers>
+        <answer>Sophie</answer>
+        <answer>Jeni</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Leprechaun:_Origins</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>On June 4, 1973 at the Felt Forum, Madison Square Garden, New York, Malave lost to Ray Lampkin by an eighth-round knockout. Malave took a fight in Boston, Mass. against Greg Joiner, winning by a knockout in the 3rd round. Then </txt1>
+        <pron>he</pron>
+        <txt2> faced former World Lightweight Champion Ken Buchanan, losing by a TKO in the 7th round September 1, 1973, which turned out to be his last professional boxing match.</txt2>
+    </text>
+    <answers>
+        <answer>Malave</answer>
+        <answer>Greg Joiner</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Edwin_Malave</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Go Away (Lorrie Morgan song) ``Go Away'' is a song written by Stephony Smith, Cathy Majeski and Sunny Russ, and recorded by American country music artist Lorrie Morgan. It was released in July 1997 as the first single from </txt1>
+        <pron>her</pron>
+        <txt2> album Shakin' Things Up.</txt2>
+    </text>
+    <answers>
+        <answer>Cathy Majeski</answer>
+        <answer>Lorrie Morgan</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Go_Away_(Lorrie_Morgan_song)</source>
+    </schema>
+
+    <schema>
+    <text>
+        <txt1>Taken in by S.H.I.E.L.D. she is under the direct supervision of its longtime executive director, Nick Fury, even after the latter's defection from the agency during the events of the ``Secret War'' series. She possesses a ``Level 10'' security clearance, the only known agent aside from Fury and the Black Widow (Natasha Romanova) to do so. In </txt1>
+        <pron>her</pron>
+        <txt2> most visible action, Johnson has helped to defeat the powerful mutant rebel leader Magneto by inducing a vibration in his brain that made him lose consciousness.</txt2>
+    </text>
+    <answers>
+        <answer>Natasha Romanova</answer>
+        <answer>Johnson</answer>
+    </answers>
+    <correctAnswer>B</correctAnswer>
+    <source>http://en.wikipedia.org/wiki/Daisy_Johnson</source>
+    </schema>
+</collection>
