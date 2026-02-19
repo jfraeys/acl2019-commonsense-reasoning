@@ -106,26 +106,41 @@ class XMLPDPProcessor(DataProcessor):
             replas2 = ('.', ''), ('.', ''), ('a ', ''), ('an ', ''), ('the ', ''), ('\'s','')
             
             
-            sent1.append(reduce(lambda a, kv: a.replace(*kv), replas, schema[0][0].text.lower().strip()))
-            sent2.append(reduce(lambda a, kv: a.replace(*kv), replas, schema[0][2].text.lower().strip()))
-            prons.append(reduce(lambda a, kv: a.replace(*kv), replas, schema[0][1].text.lower().strip()))
+            # Find the text element (may not be first due to sameText elements)
+            text_elem = schema.find('text')
+            if text_elem is None:
+                continue
+                
+            sent1.append(reduce(lambda a, kv: a.replace(*kv), replas, text_elem[0].text.lower().strip()))
+            sent2.append(reduce(lambda a, kv: a.replace(*kv), replas, text_elem[2].text.lower().strip()))
+            prons.append(reduce(lambda a, kv: a.replace(*kv), replas, text_elem[1].text.lower().strip()))
 
+            
+            # Find the answers element
+            answers_elem = schema.find('answers')
+            if answers_elem is None:
+                continue
+            answers = len(answers_elem)
             
             choices = []
             choices_ = []
-            answers = len(schema[2])
-            for i in range(0,len(schema[2])):
+            for i in range(0, answers):
                 choices.append(reduce(lambda a, kv: a.replace(*kv), replas,
-                        schema[2][i].text.lower().strip()))
+                        answers_elem[i].text.lower().strip()))
                 choices_.append(reduce(lambda a, kv: a.replace(*kv), replas2,
-                        schema[2][i].text.lower().strip()))
+                        answers_elem[i].text.lower().strip()))
             
             
 
-            ans = reduce(lambda a, kv: a.replace(*kv), replas2,
-                        schema[3].text.lower().strip())
+            ans = schema.find('correctAnswer')
+            if ans is None or ans.text is None:
+                continue
+            ans = ans.text.lower().strip()
             
             ans_dict = {'a': 0, 'b': 1, 'c': 2, 'd': 3, 'e': 4, 'f': 5, 'g':6}
+            
+            if ans not in ans_dict:
+                continue
             
             decoys = []
             
