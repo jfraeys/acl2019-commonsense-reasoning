@@ -31,3 +31,9 @@ reports.txt
 
 # Testing
 test.json
+
+# Hydra outputs
+outputs/
+
+# pyenv
+.python-version
