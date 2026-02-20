@@ -1,6 +1,5 @@
 ## Jeremie Fraeys de Veubeke
 ## Domain Training BERT to Improve Performance of the Pronoun Disambiguous Problem
-## April 29th, 2020
 
 This program will use BERT to solve the Pronoun Disambiguation Problem provided by WSC in 2016 to IJCAI-2016.
 
