@@ -7,7 +7,7 @@ This program will use BERT to solve the Pronoun Disambiguation Problem provided 
 
 This is a modernized fork of the ACL 2019 paper "Attention Is (not) All You Need for Commonsense Reasoning" by Tassilo Klein and Moin Nabi (SAP).
 
-## Modernization Updates (2026)
+## Modernization
 
 This repository has been updated to work with modern Python libraries:
 - **Replaced deprecated `bertviz.pytorch_pretrained_bert`** with `transformers>=4.0`
